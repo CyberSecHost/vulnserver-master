@@ -1,6 +1,6 @@
 # Vulnserver
 
-Check my blog at http://thegreycorner.com/ for more information and updates to this software.
+Check this blog at http://thegreycorner.com/ for more information and updates to this software.
 
 ## About the software
 
@@ -46,3 +46,4 @@ See LICENSE.txt.
 ## Warning
 
 UNDER NO CIRCUMSTANCES SHOULD THIS SOFTWARE BE RUN ON ANY SYSTEM THAT IS CONNECTED TO AN UNTRUSTED NETWORK OR THAT PERFORMS CRITICAL FUNCTIONS.  THE AUTHOR IS NOT RESPONSIBLE FOR ANY DAMAGES THAT MAY OCCUR FROM USING THIS SOFTWARE IN THIS OR ANY OTHER MANNER.  USE AT YOUR OWN RISK.
+
